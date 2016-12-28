@@ -27,6 +27,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker
+#heme: minima
 gems:
   - jekyll-feed
 exclude:
